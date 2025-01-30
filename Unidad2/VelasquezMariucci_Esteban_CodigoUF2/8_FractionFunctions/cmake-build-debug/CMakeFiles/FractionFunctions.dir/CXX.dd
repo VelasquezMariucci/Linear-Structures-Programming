@@ -1,0 +1,7 @@
+ninja_dyndep_version = 1.0
+build CMakeFiles/FractionFunctions.dir/main.cpp.obj: dyndep
+
+build CMakeFiles/FractionFunctions.dir/src/Fraction.cpp.obj: dyndep
+
+build CMakeFiles/FractionFunctions.dir/src/FractionUtils.cpp.obj: dyndep
+

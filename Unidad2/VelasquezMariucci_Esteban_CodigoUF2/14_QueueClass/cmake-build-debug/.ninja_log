@@ -1,0 +1,12 @@
+# ninja log v6
+16	168	7517302320897955	CMakeFiles/14_QueueClass.dir/main.cpp.obj.ddi	1cbf7ced9eae992e
+168	193	7517302322417349	CMakeFiles/14_QueueClass.dir/CXX.dd	194347f139c26b16
+194	1085	7517302322676148	CMakeFiles/14_QueueClass.dir/main.cpp.obj	b1e0fcab873aff60
+168	193	7517302322417349	CMakeFiles/14_QueueClass.dir/main.cpp.obj.modmap	194347f139c26b16
+1086	1180	7517302331599251	14_QueueClass.exe	da33e2b5ddb89b30
+24	230	7517593709337640	CMakeFiles/14_QueueClass.dir/main.cpp.obj.ddi	ea6e1705eb7dcc39
+231	276	7517593711808723	CMakeFiles/14_QueueClass.dir/CXX.dd	194347f139c26b16
+231	276	7517593711808723	C:/Users/esvel/OneDrive/Desktop/Code/C++/Unidad2/VelasquezMariucci_Esteban_CodigoUF2/14_QueueClass/cmake-build-debug/CMakeFiles/14_QueueClass.dir/CXXModules.json	194347f139c26b16
+231	276	7517593711808723	CMakeFiles/14_QueueClass.dir/main.cpp.obj.modmap	194347f139c26b16
+284	1705	7517593711934065	CMakeFiles/14_QueueClass.dir/main.cpp.obj	f5108b369d60368b
+1706	1830	7517593726151297	14_QueueClass.exe	da33e2b5ddb89b30

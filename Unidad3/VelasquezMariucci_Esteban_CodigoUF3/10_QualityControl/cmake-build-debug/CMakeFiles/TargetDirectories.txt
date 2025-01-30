@@ -1,0 +1,3 @@
+C:/Users/esvel/OneDrive/Desktop/Code/C++/Unidad3/VelasquezMariucci_Esteban_CodigoUF3/10_QualityControl/cmake-build-debug/CMakeFiles/10_QualityControl.dir
+C:/Users/esvel/OneDrive/Desktop/Code/C++/Unidad3/VelasquezMariucci_Esteban_CodigoUF3/10_QualityControl/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/esvel/OneDrive/Desktop/Code/C++/Unidad3/VelasquezMariucci_Esteban_CodigoUF3/10_QualityControl/cmake-build-debug/CMakeFiles/rebuild_cache.dir

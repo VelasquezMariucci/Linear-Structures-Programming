@@ -1,0 +1,11 @@
+{
+"rules": [
+{
+"primary-output": "CMakeFiles\\minmaxTemplate.dir\\minMaxiTemplate.cpp.obj",
+"requires": [
+]
+}
+],
+"version": 0,
+"revision": 0
+}

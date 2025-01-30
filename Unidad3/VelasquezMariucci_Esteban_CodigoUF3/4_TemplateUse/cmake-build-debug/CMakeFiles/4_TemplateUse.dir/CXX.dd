@@ -1,0 +1,5 @@
+ninja_dyndep_version = 1.0
+build CMakeFiles/4_TemplateUse.dir/main.cpp.obj: dyndep
+
+build CMakeFiles/4_TemplateUse.dir/Perro.cpp.obj: dyndep
+

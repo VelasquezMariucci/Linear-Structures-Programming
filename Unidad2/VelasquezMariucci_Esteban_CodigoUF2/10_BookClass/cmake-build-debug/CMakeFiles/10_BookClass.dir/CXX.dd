@@ -1,0 +1,5 @@
+ninja_dyndep_version = 1.0
+build CMakeFiles/10_BookClass.dir/main.cpp.obj: dyndep
+
+build CMakeFiles/10_BookClass.dir/src/Book.cpp.obj: dyndep
+

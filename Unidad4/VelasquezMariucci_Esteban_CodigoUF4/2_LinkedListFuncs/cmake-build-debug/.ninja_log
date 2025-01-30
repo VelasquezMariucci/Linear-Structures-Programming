@@ -1,0 +1,13 @@
+# ninja log v6
+24	172	7553951104687248	CMakeFiles/2_LinkedListFuncs.dir/main.cpp.obj.ddi	7a1a836ba4b1fcf
+172	201	7553951106179115	CMakeFiles/2_LinkedListFuncs.dir/CXX.dd	9e59b45ec9edc68
+172	201	7553951106179115	C:/Users/esvel/OneDrive/Desktop/Code/C++/Unidad4/VelasquezMariucci_Esteban_CodigoUF4/2_LinkedListFuncs/cmake-build-debug/CMakeFiles/2_LinkedListFuncs.dir/CXXModules.json	9e59b45ec9edc68
+172	201	7553951106179115	CMakeFiles/2_LinkedListFuncs.dir/main.cpp.obj.modmap	9e59b45ec9edc68
+203	1052	7553951106479711	CMakeFiles/2_LinkedListFuncs.dir/main.cpp.obj	1837eaf59cf50500
+1052	1150	7553951114978996	2_LinkedListFuncs.exe	99432b882c1f50b7
+57	563	7559749850373939	CMakeFiles/2_LinkedListFuncs.dir/main.cpp.obj.ddi	7a1a836ba4b1fcf
+564	604	7559749855441022	CMakeFiles/2_LinkedListFuncs.dir/CXX.dd	9e59b45ec9edc68
+564	604	7559749855441022	C:/Users/esvel/OneDrive/Desktop/Code/C++/Unidad4/VelasquezMariucci_Esteban_CodigoUF4/2_LinkedListFuncs/cmake-build-debug/CMakeFiles/2_LinkedListFuncs.dir/CXXModules.json	9e59b45ec9edc68
+564	604	7559749855441022	CMakeFiles/2_LinkedListFuncs.dir/main.cpp.obj.modmap	9e59b45ec9edc68
+610	1594	7559749855908543	CMakeFiles/2_LinkedListFuncs.dir/main.cpp.obj	1837eaf59cf50500
+1595	1865	7559749865748461	2_LinkedListFuncs.exe	99432b882c1f50b7

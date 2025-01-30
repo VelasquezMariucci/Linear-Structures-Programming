@@ -1,0 +1,11 @@
+{
+"rules": [
+{
+"primary-output": "CMakeFiles/2_UserPointer.dir/main.cpp.o",
+"requires": [
+]
+}
+],
+"version": 0,
+"revision": 0
+}

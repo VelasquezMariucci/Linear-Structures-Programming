@@ -1,0 +1,12 @@
+# ninja log v6
+25	565	7507916337200425	CMakeFiles/3_PointerSum.dir/main.cpp.obj.ddi	1ce37207dad8fd35
+617	1834	7507916343119851	CMakeFiles/3_PointerSum.dir/main.cpp.obj	368d3e2090203d74
+565	615	7507916342598814	CMakeFiles/3_PointerSum.dir/CXX.dd	40c3bbbbc799d033
+1835	1999	7507916355292590	3_PointerSum.exe	37e5d7442c46d78f
+565	615	7507916342598814	CMakeFiles/3_PointerSum.dir/main.cpp.obj.modmap	40c3bbbbc799d033
+32	198	7517587068640660	CMakeFiles/3_PointerSum.dir/main.cpp.obj.ddi	7a93aa5b704e4fa5
+198	234	7517587070627677	CMakeFiles/3_PointerSum.dir/CXX.dd	40c3bbbbc799d033
+198	234	7517587070627677	C:/Users/esvel/OneDrive/Desktop/Code/C++/Unidad2/VelasquezMariucci_Esteban_CodigoUF2/3 PointerSum/cmake-build-debug/CMakeFiles/3_PointerSum.dir/CXXModules.json	40c3bbbbc799d033
+198	234	7517587070627677	CMakeFiles/3_PointerSum.dir/main.cpp.obj.modmap	40c3bbbbc799d033
+241	1181	7517587070722908	CMakeFiles/3_PointerSum.dir/main.cpp.obj	44afa3354a51005a
+1182	1297	7517587080128579	3_PointerSum.exe	37e5d7442c46d78f

@@ -1,0 +1,24 @@
+# ninja log v6
+12	542	7540645622884070	CMakeFiles/5_IterationView.dir/main.cpp.obj.ddi	c13a0c3902507b07
+72	543	7540645623482640	CMakeFiles/5_IterationView.dir/Date.cpp.obj.ddi	b63c6c19bdddec49
+543	584	7540645628562391	CMakeFiles/5_IterationView.dir/CXX.dd	b1cabdb594ee6f7c
+543	584	7540645628562391	C:/Users/esvel/OneDrive/Desktop/Code/C++/Unidad3/VelasquezMariucci_Esteban_CodigoUF3/5_IterationView/cmake-build-debug/CMakeFiles/5_IterationView.dir/CXXModules.json	b1cabdb594ee6f7c
+543	584	7540645628562391	CMakeFiles/5_IterationView.dir/main.cpp.obj.modmap	b1cabdb594ee6f7c
+543	584	7540645628562391	CMakeFiles/5_IterationView.dir/Date.cpp.obj.modmap	b1cabdb594ee6f7c
+594	1554	7540645628702414	CMakeFiles/5_IterationView.dir/Date.cpp.obj	d6fef250ecda25fc
+590	1557	7540645628662385	CMakeFiles/5_IterationView.dir/main.cpp.obj	b8bd60f6650dd0ad
+1557	1796	7540645638328130	5_IterationView.exe	f29c28878aebdeba
+22	178	7540645772988042	CMakeFiles/5_IterationView.dir/main.cpp.obj.ddi	c13a0c3902507b07
+178	208	7540645774546049	CMakeFiles/5_IterationView.dir/CXX.dd	b1cabdb594ee6f7c
+178	208	7540645774546049	C:/Users/esvel/OneDrive/Desktop/Code/C++/Unidad3/VelasquezMariucci_Esteban_CodigoUF3/5_IterationView/cmake-build-debug/CMakeFiles/5_IterationView.dir/CXXModules.json	b1cabdb594ee6f7c
+178	208	7540645774546049	CMakeFiles/5_IterationView.dir/main.cpp.obj.modmap	b1cabdb594ee6f7c
+178	208	7540645774546049	CMakeFiles/5_IterationView.dir/Date.cpp.obj.modmap	b1cabdb594ee6f7c
+209	1012	7540645774857076	CMakeFiles/5_IterationView.dir/main.cpp.obj	b8bd60f6650dd0ad
+1013	1109	7540645782884133	5_IterationView.exe	f29c28878aebdeba
+19	169	7540645844509432	CMakeFiles/5_IterationView.dir/main.cpp.obj.ddi	c13a0c3902507b07
+170	197	7540645846018915	CMakeFiles/5_IterationView.dir/CXX.dd	b1cabdb594ee6f7c
+170	197	7540645846018915	C:/Users/esvel/OneDrive/Desktop/Code/C++/Unidad3/VelasquezMariucci_Esteban_CodigoUF3/5_IterationView/cmake-build-debug/CMakeFiles/5_IterationView.dir/CXXModules.json	b1cabdb594ee6f7c
+170	197	7540645846018915	CMakeFiles/5_IterationView.dir/main.cpp.obj.modmap	b1cabdb594ee6f7c
+170	197	7540645846018915	CMakeFiles/5_IterationView.dir/Date.cpp.obj.modmap	b1cabdb594ee6f7c
+198	972	7540645846298928	CMakeFiles/5_IterationView.dir/main.cpp.obj	b8bd60f6650dd0ad
+972	1068	7540645854045095	5_IterationView.exe	f29c28878aebdeba

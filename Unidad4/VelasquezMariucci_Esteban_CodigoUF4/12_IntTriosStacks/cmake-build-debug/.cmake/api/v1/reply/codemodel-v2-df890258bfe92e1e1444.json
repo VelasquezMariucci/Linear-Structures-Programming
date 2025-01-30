@@ -1,0 +1,60 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"jsonFile" : "directory-.-Debug-d0094a50bb2071803777.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.29"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "12_IntTriosStacks",
+					"targetIndexes" : 
+					[
+						0
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "12_IntTriosStacks::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-12_IntTriosStacks-Debug-5aa5820914238a0c988b.json",
+					"name" : "12_IntTriosStacks",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "C:/Users/esvel/OneDrive/Desktop/Code/C++/Unidad4/VelasquezMariucci_Esteban_CodigoUF4/12_IntTriosStacks/cmake-build-debug",
+		"source" : "C:/Users/esvel/OneDrive/Desktop/Code/C++/Unidad4/VelasquezMariucci_Esteban_CodigoUF4/12_IntTriosStacks"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 7
+	}
+}

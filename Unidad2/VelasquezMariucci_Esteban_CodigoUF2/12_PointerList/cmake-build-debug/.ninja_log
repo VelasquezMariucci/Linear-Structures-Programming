@@ -1,0 +1,12 @@
+# ninja log v6
+3	205	7517272274526684	CMakeFiles/12_PointerList.dir/main.cpp.obj.ddi	ade7bcd8687cd552
+254	1302	7517272277037322	CMakeFiles/12_PointerList.dir/main.cpp.obj	4249ac2b4cc5808c
+206	247	7517272276935007	CMakeFiles/12_PointerList.dir/CXX.dd	7156be84b91a80ed
+206	247	7517272276935007	CMakeFiles/12_PointerList.dir/main.cpp.obj.modmap	7156be84b91a80ed
+1304	1440	7517272287536882	12_PointerList.exe	b09fd13e72fb9335
+28	218	7517593003472258	CMakeFiles/12_PointerList.dir/main.cpp.obj.ddi	49749da93f781d2f
+219	269	7517593005838372	CMakeFiles/12_PointerList.dir/CXX.dd	7156be84b91a80ed
+219	269	7517593005838372	C:/Users/esvel/OneDrive/Desktop/Code/C++/Unidad2/VelasquezMariucci_Esteban_CodigoUF2/12_PointerList/cmake-build-debug/CMakeFiles/12_PointerList.dir/CXXModules.json	7156be84b91a80ed
+219	269	7517593005838372	CMakeFiles/12_PointerList.dir/main.cpp.obj.modmap	7156be84b91a80ed
+278	1622	7517593005978955	CMakeFiles/12_PointerList.dir/main.cpp.obj	854160f5c007b0ac
+1623	1752	7517593019417159	12_PointerList.exe	b09fd13e72fb9335

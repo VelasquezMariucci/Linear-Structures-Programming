@@ -1,0 +1,16 @@
+# ninja log v6
+7	533	7580393586752529	CMakeFiles/ACF_LCDP.dir/main.cpp.obj.ddi	365f56389e9781a7
+533	605	7580393592676560	CMakeFiles/ACF_LCDP.dir/CXX.dd	5b8b58b5cc5dcb3e
+533	605	7580393592676560	C:/Users/ricky/CLionProjects/ACF_LCDP/cmake-build-debug/CMakeFiles/ACF_LCDP.dir/CXXModules.json	5b8b58b5cc5dcb3e
+533	605	7580393592676560	CMakeFiles/ACF_LCDP.dir/main.cpp.obj.modmap	5b8b58b5cc5dcb3e
+605	2394	7580393592726429	CMakeFiles/ACF_LCDP.dir/main.cpp.obj	cd39336e973e8f96
+9	350	7580393784385103	CMakeFiles/ACF_LCDP.dir/Usuario.cpp.obj.ddi	ebe46c3ee97a72a1
+24	364	7580393784534348	CMakeFiles/ACF_LCDP.dir/Registro.cpp.obj.ddi	9a3d7c33cf66c7ca
+372	416	7580393788018556	CMakeFiles/ACF_LCDP.dir/CXX.dd	8bf9097124c6e06
+372	416	7580393788018556	C:/Users/ricky/CLionProjects/ACF_LCDP/cmake-build-debug/CMakeFiles/ACF_LCDP.dir/CXXModules.json	8bf9097124c6e06
+372	416	7580393788018556	CMakeFiles/ACF_LCDP.dir/main.cpp.obj.modmap	8bf9097124c6e06
+372	416	7580393788018556	CMakeFiles/ACF_LCDP.dir/Usuario.cpp.obj.modmap	8bf9097124c6e06
+372	416	7580393788018556	CMakeFiles/ACF_LCDP.dir/Registro.cpp.obj.modmap	8bf9097124c6e06
+417	1234	7580393788467389	CMakeFiles/ACF_LCDP.dir/Usuario.cpp.obj	850516f73a1891f4
+429	1235	7580393788587068	CMakeFiles/ACF_LCDP.dir/Registro.cpp.obj	45acf1ebe25bb766
+1235	1503	7580393796646537	ACF_LCDP.exe	686863baedd016a3

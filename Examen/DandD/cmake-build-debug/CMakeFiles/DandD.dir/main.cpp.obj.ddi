@@ -1,0 +1,11 @@
+{
+"rules": [
+{
+"primary-output": "CMakeFiles\\DandD.dir\\main.cpp.obj",
+"requires": [
+]
+}
+],
+"version": 0,
+"revision": 0
+}

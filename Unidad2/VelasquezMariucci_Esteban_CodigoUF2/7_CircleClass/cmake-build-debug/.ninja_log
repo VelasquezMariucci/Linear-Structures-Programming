@@ -1,0 +1,18 @@
+# ninja log v6
+18	361	7513903945170930	build.ninja	9aba8645b181973c
+477	515	7513903437815437	CMakeFiles/7_CircleClass.dir/CXX.dd	c66d9a7f30fbd4c4
+25	452	7513903433289429	CMakeFiles/7_CircleClass.dir/main.cpp.obj.ddi	e8681f0ff8e834e7
+1587	1758	7513903448913945	7_CircleClass.exe	b8bc21e90bbd5fd
+477	515	7513903437815437	C:/Users/esvel/OneDrive/Desktop/Code/C++/Unidad2/A. Individual/7_CircleClass/cmake-build-debug/CMakeFiles/7_CircleClass.dir/CXXModules.json	c66d9a7f30fbd4c4
+477	515	7513903437815437	CMakeFiles/7_CircleClass.dir/main.cpp.obj.modmap	c66d9a7f30fbd4c4
+521	1543	7513903438249449	CMakeFiles/7_CircleClass.dir/main.cpp.obj	3f3f9ffb4849ce59
+28	477	7513903433324549	CMakeFiles/7_CircleClass.dir/src/Circle.cpp.obj.ddi	eb946ece877cda7c
+477	515	7513903437815437	CMakeFiles/7_CircleClass.dir/src/Circle.cpp.obj.modmap	c66d9a7f30fbd4c4
+525	1587	7513903438289477	CMakeFiles/7_CircleClass.dir/src/Circle.cpp.obj	70e25301ba607c5e
+25	185	7513904053413558	CMakeFiles/7_CircleClass.dir/main.cpp.obj.ddi	e8681f0ff8e834e7
+185	213	7513904055009727	CMakeFiles/7_CircleClass.dir/CXX.dd	c66d9a7f30fbd4c4
+185	213	7513904055009727	C:/Users/esvel/OneDrive/Desktop/Code/C++/Unidad2/A. Individual/7_CircleClass/cmake-build-debug/CMakeFiles/7_CircleClass.dir/CXXModules.json	c66d9a7f30fbd4c4
+185	213	7513904055009727	CMakeFiles/7_CircleClass.dir/main.cpp.obj.modmap	c66d9a7f30fbd4c4
+185	213	7513904055009727	CMakeFiles/7_CircleClass.dir/src/Circle.cpp.obj.modmap	c66d9a7f30fbd4c4
+214	1058	7513904055295716	CMakeFiles/7_CircleClass.dir/main.cpp.obj	3f3f9ffb4849ce59
+1059	1159	7513904063745432	7_CircleClass.exe	b8bc21e90bbd5fd

@@ -1,0 +1,12 @@
+# ninja log v6
+78	322	7491617221902542	CMakeFiles/StudentRecord.dir/main.cpp.obj.ddi	65ac3a5f4c2781bc
+322	375	7491617224346862	CMakeFiles/StudentRecord.dir/CXX.dd	8514d31fd2c487a6
+5112	5328	7491617272247072	StudentRecord.exe	5387a5ea74e1f8df
+381	5111	7491617224930966	CMakeFiles/StudentRecord.dir/main.cpp.obj	c6bb86b15989baf8
+84	313	7491617221962534	CMakeFiles/StudentRecord.dir/Student.cpp.obj.ddi	74c9630718c08242
+322	375	7491617224346862	CMakeFiles/StudentRecord.dir/main.cpp.obj.modmap	8514d31fd2c487a6
+322	375	7491617224346862	CMakeFiles/StudentRecord.dir/Student.cpp.obj.modmap	8514d31fd2c487a6
+384	5102	7491617224961013	CMakeFiles/StudentRecord.dir/Student.cpp.obj	b99395d4327b1fd1
+88	314	7491617222007413	CMakeFiles/StudentRecord.dir/StudentRecord.cpp.obj.ddi	e948634df2c33fe3
+322	375	7491617224346862	CMakeFiles/StudentRecord.dir/StudentRecord.cpp.obj.modmap	8514d31fd2c487a6
+388	5112	7491617225006140	CMakeFiles/StudentRecord.dir/StudentRecord.cpp.obj	f9704981f819fb2f

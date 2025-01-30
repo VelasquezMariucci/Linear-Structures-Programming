@@ -1,0 +1,11 @@
+{
+"rules": [
+{
+"primary-output": "CMakeFiles\\FractionFunctions.dir\\src\\Fraction.cpp.obj",
+"requires": [
+]
+}
+],
+"version": 0,
+"revision": 0
+}

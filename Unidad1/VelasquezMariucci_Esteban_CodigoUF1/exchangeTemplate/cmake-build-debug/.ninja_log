@@ -1,0 +1,13 @@
+# ninja log v6
+3	173	7489030763262807	CMakeFiles/exchangeTemplate.dir/main.cpp.obj.ddi	11fd55975b2f0cfa
+174	210	7489030765295801	CMakeFiles/exchangeTemplate.dir/CXX.dd	b4cdd7a419eb2ad2
+174	210	7489030765295801	C:/Users/esvel/OneDrive/Desktop/Code/C++/exchangeTemplate/cmake-build-debug/CMakeFiles/exchangeTemplate.dir/CXXModules.json	b4cdd7a419eb2ad2
+174	210	7489030765295801	CMakeFiles/exchangeTemplate.dir/main.cpp.obj.modmap	b4cdd7a419eb2ad2
+216	1217	7489030765387362	CMakeFiles/exchangeTemplate.dir/main.cpp.obj	6dbf3f5f9b50b73b
+1218	1358	7489030775419864	exchangeTemplate.exe	cac66b532b33ed24
+15	182	7489030894080363	CMakeFiles/exchangeTemplate.dir/main.cpp.obj.ddi	11fd55975b2f0cfa
+183	217	7489030895755027	CMakeFiles/exchangeTemplate.dir/CXX.dd	b4cdd7a419eb2ad2
+183	217	7489030895755027	C:/Users/esvel/OneDrive/Desktop/Code/C++/exchangeTemplate/cmake-build-debug/CMakeFiles/exchangeTemplate.dir/CXXModules.json	b4cdd7a419eb2ad2
+183	217	7489030895755027	CMakeFiles/exchangeTemplate.dir/main.cpp.obj.modmap	b4cdd7a419eb2ad2
+222	1078	7489030896141108	CMakeFiles/exchangeTemplate.dir/main.cpp.obj	6dbf3f5f9b50b73b
+1079	1182	7489030904710030	exchangeTemplate.exe	cac66b532b33ed24

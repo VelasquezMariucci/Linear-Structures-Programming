@@ -1,0 +1,18 @@
+# ninja log v6
+1317	1414	7513874929620923	6_RectangleClass.exe	f909980469904917
+8	193	7513874702723851	CMakeFiles/6_RectangleClass.dir/main.cpp.obj.ddi	b62ee513959d1207
+211	248	7513874918556528	CMakeFiles/6_RectangleClass.dir/CXX.dd	53b0f90be6864e3
+19	210	7513874916643764	CMakeFiles/6_RectangleClass.dir/src/Rectangle.cpp.obj.ddi	12b08917b84f78d3
+211	248	7513874918556528	CMakeFiles/6_RectangleClass.dir/main.cpp.obj.modmap	53b0f90be6864e3
+211	248	7513874918556528	CMakeFiles/6_RectangleClass.dir/src/Rectangle.cpp.obj.modmap	53b0f90be6864e3
+231	1305	7513874704955955	CMakeFiles/6_RectangleClass.dir/main.cpp.obj	5645b8bae168086a
+250	1316	7513874918953960	CMakeFiles/6_RectangleClass.dir/src/Rectangle.cpp.obj	542eba57071fb749
+55	340	7517591842348336	CMakeFiles/6_RectangleClass.dir/src/Rectangle.cpp.obj.ddi	a35d5bebef4a7dae
+48	351	7517591842278224	CMakeFiles/6_RectangleClass.dir/main.cpp.obj.ddi	c6feabd052e7d9b5
+351	403	7517591845766542	CMakeFiles/6_RectangleClass.dir/CXX.dd	53b0f90be6864e3
+351	403	7517591845766542	C:/Users/esvel/OneDrive/Desktop/Code/C++/Unidad2/VelasquezMariucci_Esteban_CodigoUF2/6_RectangleClass/cmake-build-debug/CMakeFiles/6_RectangleClass.dir/CXXModules.json	53b0f90be6864e3
+351	403	7517591845766542	CMakeFiles/6_RectangleClass.dir/main.cpp.obj.modmap	53b0f90be6864e3
+351	403	7517591845766542	CMakeFiles/6_RectangleClass.dir/src/Rectangle.cpp.obj.modmap	53b0f90be6864e3
+407	2138	7517591845867177	CMakeFiles/6_RectangleClass.dir/main.cpp.obj	d53dce22a6593da6
+413	2150	7517591845930545	CMakeFiles/6_RectangleClass.dir/src/Rectangle.cpp.obj	a7e5c6513a45ea44
+2150	2303	7517591863292751	6_RectangleClass.exe	f909980469904917

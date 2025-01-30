@@ -1,0 +1,5 @@
+ninja_dyndep_version = 1.0
+build CMakeFiles/9_PersonClass.dir/main.cpp.obj: dyndep
+
+build CMakeFiles/9_PersonClass.dir/src/Person.cpp.obj: dyndep
+

@@ -1,0 +1,11 @@
+# ninja log v6
+3	209	7526106890342172	CMakeFiles/LondDinArray.dir/main.cpp.obj.ddi	111c1fdaa0b20202
+209	249	7526106892769746	CMakeFiles/LondDinArray.dir/CXX.dd	433750085543331c
+209	249	7526106892769746	C:/Users/esvel/OneDrive/Desktop/Code/C++/Unidad3/LondDinArray/cmake-build-debug/CMakeFiles/LondDinArray.dir/CXXModules.json	433750085543331c
+209	249	7526106892769746	CMakeFiles/LondDinArray.dir/main.cpp.obj.modmap	433750085543331c
+8	156	7526109372442434	CMakeFiles/LondDinArray.dir/main.cpp.obj.ddi	111c1fdaa0b20202
+157	187	7526109373943005	CMakeFiles/LondDinArray.dir/CXX.dd	433750085543331c
+157	187	7526109373943005	C:/Users/esvel/OneDrive/Desktop/Code/C++/Unidad3/LondDinArray/cmake-build-debug/CMakeFiles/LondDinArray.dir/CXXModules.json	433750085543331c
+157	187	7526109373943005	CMakeFiles/LondDinArray.dir/main.cpp.obj.modmap	433750085543331c
+188	1143	7526109374243028	CMakeFiles/LondDinArray.dir/main.cpp.obj	1020d4b3c724d7dd
+1145	1399	7526109383809820	LondDinArray.exe	d4659164ee279c4

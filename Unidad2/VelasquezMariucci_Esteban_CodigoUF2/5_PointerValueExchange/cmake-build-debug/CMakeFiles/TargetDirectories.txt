@@ -1,0 +1,3 @@
+C:/Users/esvel/OneDrive/Desktop/Code/C++/Unidad2/VelasquezMariucci_Esteban_CodigoUF2/5_PointerValueExchange/cmake-build-debug/CMakeFiles/5_PointerValueExchange.dir
+C:/Users/esvel/OneDrive/Desktop/Code/C++/Unidad2/VelasquezMariucci_Esteban_CodigoUF2/5_PointerValueExchange/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/esvel/OneDrive/Desktop/Code/C++/Unidad2/VelasquezMariucci_Esteban_CodigoUF2/5_PointerValueExchange/cmake-build-debug/CMakeFiles/rebuild_cache.dir

@@ -1,0 +1,19 @@
+# ninja log v6
+5	191	7553969541673745	CMakeFiles/4_IntLinkedList.dir/main.cpp.obj.ddi	987ac1cd6c2d9434
+191	245	7553969544028860	CMakeFiles/4_IntLinkedList.dir/CXX.dd	9024aa36f0234de7
+191	245	7553969544028860	C:/Users/esvel/OneDrive/Desktop/Code/C++/Unidad4/VelasquezMariucci_Esteban_CodigoUF4/4_IntLinkedList/cmake-build-debug/CMakeFiles/4_IntLinkedList.dir/CXXModules.json	9024aa36f0234de7
+191	245	7553969544028860	CMakeFiles/4_IntLinkedList.dir/main.cpp.obj.modmap	9024aa36f0234de7
+254	1234	7553969544164210	CMakeFiles/4_IntLinkedList.dir/main.cpp.obj	237054e840d6da26
+1237	1362	7553969553987725	4_IntLinkedList.exe	510c9f84ce7e31bb
+27	180	7553969600258157	CMakeFiles/4_IntLinkedList.dir/main.cpp.obj.ddi	987ac1cd6c2d9434
+180	208	7553969601788721	CMakeFiles/4_IntLinkedList.dir/CXX.dd	9024aa36f0234de7
+180	208	7553969601788721	C:/Users/esvel/OneDrive/Desktop/Code/C++/Unidad4/VelasquezMariucci_Esteban_CodigoUF4/4_IntLinkedList/cmake-build-debug/CMakeFiles/4_IntLinkedList.dir/CXXModules.json	9024aa36f0234de7
+180	208	7553969601788721	CMakeFiles/4_IntLinkedList.dir/main.cpp.obj.modmap	9024aa36f0234de7
+209	1073	7553969602074260	CMakeFiles/4_IntLinkedList.dir/main.cpp.obj	237054e840d6da26
+1073	1202	7553969610718834	4_IntLinkedList.exe	510c9f84ce7e31bb
+58	251	7559750055641988	CMakeFiles/4_IntLinkedList.dir/main.cpp.obj.ddi	987ac1cd6c2d9434
+252	318	7559750057579152	CMakeFiles/4_IntLinkedList.dir/CXX.dd	9024aa36f0234de7
+252	318	7559750057579152	C:/Users/esvel/OneDrive/Desktop/Code/C++/Unidad4/VelasquezMariucci_Esteban_CodigoUF4/4_IntLinkedList/cmake-build-debug/CMakeFiles/4_IntLinkedList.dir/CXXModules.json	9024aa36f0234de7
+252	318	7559750057579152	CMakeFiles/4_IntLinkedList.dir/main.cpp.obj.modmap	9024aa36f0234de7
+326	1325	7559750058317345	CMakeFiles/4_IntLinkedList.dir/main.cpp.obj	237054e840d6da26
+1326	1475	7559750068311595	4_IntLinkedList.exe	510c9f84ce7e31bb

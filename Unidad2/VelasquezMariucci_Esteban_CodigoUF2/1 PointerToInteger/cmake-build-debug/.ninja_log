@@ -1,0 +1,12 @@
+# ninja log v6
+7	150	7501882203377623	CMakeFiles/PointerToInteger.dir/main.cpp.obj.ddi	c0cb906c0577b809
+176	950	7501882205060945	CMakeFiles/PointerToInteger.dir/main.cpp.obj	66df4421a827219b
+951	1044	7501882212818245	PointerToInteger.exe	2f6cb4538bc6c9f6
+151	174	7501882204809946	CMakeFiles/PointerToInteger.dir/CXX.dd	86059dd5c35d97fd
+151	174	7501882204809946	CMakeFiles/PointerToInteger.dir/main.cpp.obj.modmap	86059dd5c35d97fd
+60	2850	7517590866118894	CMakeFiles/PointerToInteger.dir/main.cpp.obj.ddi	f8face304bbd66b6
+2851	3124	7517590896714169	CMakeFiles/PointerToInteger.dir/CXX.dd	86059dd5c35d97fd
+2851	3124	7517590896714169	C:/Users/esvel/OneDrive/Desktop/Code/C++/Unidad2/VelasquezMariucci_Esteban_CodigoUF2/1 PointerToInteger/cmake-build-debug/CMakeFiles/PointerToInteger.dir/CXXModules.json	86059dd5c35d97fd
+2851	3124	7517590896714169	CMakeFiles/PointerToInteger.dir/main.cpp.obj.modmap	86059dd5c35d97fd
+3173	9708	7517590897250375	CMakeFiles/PointerToInteger.dir/main.cpp.obj	4ddaa2077008c08
+9781	11212	7517590963331500	PointerToInteger.exe	2f6cb4538bc6c9f6

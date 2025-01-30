@@ -1,0 +1,23 @@
+# ninja log v6
+93	733	7488957917582631	CMakeFiles/minmaxTemplate.dir/minMaxiTemplate.cpp.obj.ddi	bd0367286174ff72
+13	166	7488962941400911	CMakeFiles/minmaxTemplate.dir/main.cpp.obj.ddi	fd7efb63daf1a582
+166	193	7488962942933166	C:/Users/esvel/OneDrive/Desktop/Code/C++/minmaxTemplate/cmake-build-debug/CMakeFiles/minmaxTemplate.dir/CXXModules.json	5681bea4f4e570a2
+166	193	7488962942933166	CMakeFiles/minmaxTemplate.dir/main.cpp.obj.modmap	5681bea4f4e570a2
+26	604	7488963478580524	build.ninja	92e72d819316b8aa
+191	1059	7488962599915790	CMakeFiles/minmaxTemplate.dir/main.cpp.obj	8fa94b19f1eb3fdd
+166	193	7488962942933166	CMakeFiles/minmaxTemplate.dir/CXX.dd	5681bea4f4e570a2
+1060	1166	7488962608600433	minmaxTemplate.exe	bf9991a3532f5bf4
+23	227	7488964614795086	CMakeFiles/minmaxTemplate.dir/main.cpp.obj.ddi	fd7efb63daf1a582
+228	266	7488964616840999	CMakeFiles/minmaxTemplate.dir/CXX.dd	5681bea4f4e570a2
+228	266	7488964616840999	C:/Users/esvel/OneDrive/Desktop/Code/C++/minmaxTemplate/cmake-build-debug/CMakeFiles/minmaxTemplate.dir/CXXModules.json	5681bea4f4e570a2
+228	266	7488964616840999	CMakeFiles/minmaxTemplate.dir/main.cpp.obj.modmap	5681bea4f4e570a2
+12	167	7488964818226103	CMakeFiles/minmaxTemplate.dir/main.cpp.obj.ddi	fd7efb63daf1a582
+167	194	7488964819816149	CMakeFiles/minmaxTemplate.dir/CXX.dd	5681bea4f4e570a2
+167	194	7488964819816149	C:/Users/esvel/OneDrive/Desktop/Code/C++/minmaxTemplate/cmake-build-debug/CMakeFiles/minmaxTemplate.dir/CXXModules.json	5681bea4f4e570a2
+167	194	7488964819816149	CMakeFiles/minmaxTemplate.dir/main.cpp.obj.modmap	5681bea4f4e570a2
+13	194	7488964909114010	CMakeFiles/minmaxTemplate.dir/main.cpp.obj.ddi	fd7efb63daf1a582
+194	222	7488964910925176	CMakeFiles/minmaxTemplate.dir/CXX.dd	5681bea4f4e570a2
+194	222	7488964910925176	C:/Users/esvel/OneDrive/Desktop/Code/C++/minmaxTemplate/cmake-build-debug/CMakeFiles/minmaxTemplate.dir/CXXModules.json	5681bea4f4e570a2
+194	222	7488964910925176	CMakeFiles/minmaxTemplate.dir/main.cpp.obj.modmap	5681bea4f4e570a2
+224	1170	7488964911216237	CMakeFiles/minmaxTemplate.dir/main.cpp.obj	8fa94b19f1eb3fdd
+1171	1287	7488964920692501	minmaxTemplate.exe	bf9991a3532f5bf4

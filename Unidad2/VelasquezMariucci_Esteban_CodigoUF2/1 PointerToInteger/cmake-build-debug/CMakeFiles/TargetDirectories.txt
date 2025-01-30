@@ -1,0 +1,3 @@
+C:/Users/esvel/OneDrive/Desktop/Code/C++/Unidad2/VelasquezMariucci_Esteban_CodigoUF2/1 PointerToInteger/cmake-build-debug/CMakeFiles/PointerToInteger.dir
+C:/Users/esvel/OneDrive/Desktop/Code/C++/Unidad2/VelasquezMariucci_Esteban_CodigoUF2/1 PointerToInteger/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/esvel/OneDrive/Desktop/Code/C++/Unidad2/VelasquezMariucci_Esteban_CodigoUF2/1 PointerToInteger/cmake-build-debug/CMakeFiles/rebuild_cache.dir

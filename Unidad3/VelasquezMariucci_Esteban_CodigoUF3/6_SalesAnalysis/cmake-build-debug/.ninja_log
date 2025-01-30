@@ -1,0 +1,19 @@
+# ninja log v6
+8	211	7545236139040919	CMakeFiles/6_SalesAnalysis.dir/main.cpp.obj.ddi	2eded2e167dcac7
+211	265	7545236141579553	CMakeFiles/6_SalesAnalysis.dir/CXX.dd	653c18371ab10d56
+211	265	7545236141579553	C:/Users/esvel/OneDrive/Desktop/Code/C++/Unidad3/VelasquezMariucci_Esteban_CodigoUF3/6_SalesAnalysis/cmake-build-debug/CMakeFiles/6_SalesAnalysis.dir/CXXModules.json	653c18371ab10d56
+211	265	7545236141579553	CMakeFiles/6_SalesAnalysis.dir/main.cpp.obj.modmap	653c18371ab10d56
+273	1293	7545236141685813	CMakeFiles/6_SalesAnalysis.dir/main.cpp.obj	bef18505478a945f
+1295	1468	7545236151905688	6_SalesAnalysis.exe	6b3ff0884dcb0c96
+18	262	7545238188788089	CMakeFiles/6_SalesAnalysis.dir/main.cpp.obj.ddi	2eded2e167dcac7
+262	306	7545238191224068	CMakeFiles/6_SalesAnalysis.dir/CXX.dd	653c18371ab10d56
+262	306	7545238191224068	C:/Users/esvel/OneDrive/Desktop/Code/C++/Unidad3/VelasquezMariucci_Esteban_CodigoUF3/6_SalesAnalysis/cmake-build-debug/CMakeFiles/6_SalesAnalysis.dir/CXXModules.json	653c18371ab10d56
+262	306	7545238191224068	CMakeFiles/6_SalesAnalysis.dir/main.cpp.obj.modmap	653c18371ab10d56
+307	1240	7545238191674149	CMakeFiles/6_SalesAnalysis.dir/main.cpp.obj	bef18505478a945f
+1241	1365	7545238201007354	6_SalesAnalysis.exe	6b3ff0884dcb0c96
+17	168	7545239283340134	CMakeFiles/6_SalesAnalysis.dir/main.cpp.obj.ddi	2eded2e167dcac7
+168	193	7545239284851988	CMakeFiles/6_SalesAnalysis.dir/CXX.dd	653c18371ab10d56
+168	193	7545239284851988	C:/Users/esvel/OneDrive/Desktop/Code/C++/Unidad3/VelasquezMariucci_Esteban_CodigoUF3/6_SalesAnalysis/cmake-build-debug/CMakeFiles/6_SalesAnalysis.dir/CXXModules.json	653c18371ab10d56
+168	193	7545239284851988	CMakeFiles/6_SalesAnalysis.dir/main.cpp.obj.modmap	653c18371ab10d56
+194	1048	7545239285108820	CMakeFiles/6_SalesAnalysis.dir/main.cpp.obj	bef18505478a945f
+1048	1143	7545239293651071	6_SalesAnalysis.exe	6b3ff0884dcb0c96

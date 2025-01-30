@@ -1,0 +1,11 @@
+ninja_dyndep_version = 1.0
+build CMakeFiles/AC1.dir/main.cpp.obj: dyndep
+
+build CMakeFiles/AC1.dir/Libro.cpp.obj: dyndep
+
+build CMakeFiles/AC1.dir/Usuario.cpp.obj: dyndep
+
+build CMakeFiles/AC1.dir/UsuarioCliente.cpp.obj: dyndep
+
+build CMakeFiles/AC1.dir/UsuarioBibliotecario.cpp.obj: dyndep
+

@@ -1,0 +1,14 @@
+# ninja log v6
+254	1325	7517587584154070	CMakeFiles/4_ArrayPointerFunctions.dir/main.cpp.obj	49207380c9a815a9
+215	252	7517587583779402	CMakeFiles/4_ArrayPointerFunctions.dir/CXX.dd	7a6b68064ec2c3f8
+34	215	7517587581954454	CMakeFiles/4_ArrayPointerFunctions.dir/main.cpp.obj.ddi	a3326d5d5db720e8
+215	252	7517587583779402	CMakeFiles/4_ArrayPointerFunctions.dir/main.cpp.obj.modmap	7a6b68064ec2c3f8
+1325	1457	7517587594883459	4_ArrayPointerFunctions.exe	e705bffc62005f0f
+28	337	7517591541282343	build.ninja	4ab9344c9a238e09
+215	252	7517587583779402	C:/Users/esvel/OneDrive/Desktop/Code/C++/Unidad2/VelasquezMariucci_Esteban_CodigoUF2/4_ArrayPointerFunctions/cmake-build-debug/CMakeFiles/4_ArrayPointerFunctions.dir/CXXModules.json	7a6b68064ec2c3f8
+30	392	7517591553520207	CMakeFiles/4_ArrayPointerFunctions.dir/main.cpp.obj.ddi	a3326d5d5db720e8
+392	470	7517591557139207	CMakeFiles/4_ArrayPointerFunctions.dir/CXX.dd	7a6b68064ec2c3f8
+392	470	7517591557139207	C:/Users/esvel/OneDrive/Desktop/Code/C++/Unidad2/VelasquezMariucci_Esteban_CodigoUF2/4_ArrayPointerFunctions/cmake-build-debug/CMakeFiles/4_ArrayPointerFunctions.dir/CXXModules.json	7a6b68064ec2c3f8
+392	470	7517591557139207	CMakeFiles/4_ArrayPointerFunctions.dir/main.cpp.obj.modmap	7a6b68064ec2c3f8
+482	2209	7517591558044179	CMakeFiles/4_ArrayPointerFunctions.dir/main.cpp.obj	49207380c9a815a9
+2210	2370	7517591575309261	4_ArrayPointerFunctions.exe	e705bffc62005f0f

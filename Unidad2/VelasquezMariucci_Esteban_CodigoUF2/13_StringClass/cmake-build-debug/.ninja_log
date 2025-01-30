@@ -1,0 +1,18 @@
+# ninja log v6
+15	782	7517285385049869	CMakeFiles/13_StringClass.dir/main.cpp.obj.ddi	e67ca5970da8211e
+783	824	7517285393100109	CMakeFiles/13_StringClass.dir/CXX.dd	b4b3e3361b3bbcc
+783	824	7517285393100109	CMakeFiles/13_StringClass.dir/main.cpp.obj.modmap	b4b3e3361b3bbcc
+830	1819	7517285393195396	CMakeFiles/13_StringClass.dir/main.cpp.obj	7ea054f7817822f3
+1821	2063	7517285403110211	13_StringClass.exe	9fcd07792a30126d
+25	217	7517593139758247	CMakeFiles/13_StringClass.dir/main.cpp.obj.ddi	51fe5dcd15e60bd7
+218	257	7517593142031196	CMakeFiles/13_StringClass.dir/CXX.dd	b4b3e3361b3bbcc
+218	257	7517593142031196	C:/Users/esvel/OneDrive/Desktop/Code/C++/Unidad2/VelasquezMariucci_Esteban_CodigoUF2/13_StringClass/cmake-build-debug/CMakeFiles/13_StringClass.dir/CXXModules.json	b4b3e3361b3bbcc
+218	257	7517593142031196	CMakeFiles/13_StringClass.dir/main.cpp.obj.modmap	b4b3e3361b3bbcc
+265	1201	7517593142166397	CMakeFiles/13_StringClass.dir/main.cpp.obj	1b92e53e6dc6690e
+1201	1327	7517593151519293	13_StringClass.exe	9fcd07792a30126d
+20	177	7517593536220843	CMakeFiles/13_StringClass.dir/main.cpp.obj.ddi	51fe5dcd15e60bd7
+177	204	7517593537801503	CMakeFiles/13_StringClass.dir/CXX.dd	b4b3e3361b3bbcc
+177	204	7517593537801503	C:/Users/esvel/OneDrive/Desktop/Code/C++/Unidad2/VelasquezMariucci_Esteban_CodigoUF2/13_StringClass/cmake-build-debug/CMakeFiles/13_StringClass.dir/CXXModules.json	b4b3e3361b3bbcc
+177	204	7517593537801503	CMakeFiles/13_StringClass.dir/main.cpp.obj.modmap	b4b3e3361b3bbcc
+205	1043	7517593538077100	CMakeFiles/13_StringClass.dir/main.cpp.obj	1b92e53e6dc6690e
+1043	1171	7517593546456598	13_StringClass.exe	9fcd07792a30126d

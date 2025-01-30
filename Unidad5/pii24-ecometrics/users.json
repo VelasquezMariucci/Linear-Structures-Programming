@@ -1,0 +1,37 @@
+{"users": [
+    {
+        "password": "5678",
+        "type": "client",
+        "username": "Al"
+    },
+    {
+        "password": "analista2",
+        "type": "analyst",
+        "username": "Analista2"
+    },
+    {
+        "password": "analista1",
+        "type": "analyst",
+        "username": "Analista1"
+    },
+    {
+        "password": "1234",
+        "type": "admin",
+        "username": "Marcelo"
+    },
+    {
+        "password": "1234",
+        "type": "admin",
+        "username": "Ricardo"
+    },
+    {
+        "password": "1234",
+        "type": "admin",
+        "username": "Esteban"
+    },
+    {
+        "password": "1234",
+        "type": "admin",
+        "username": "Jorge"
+    }
+]}

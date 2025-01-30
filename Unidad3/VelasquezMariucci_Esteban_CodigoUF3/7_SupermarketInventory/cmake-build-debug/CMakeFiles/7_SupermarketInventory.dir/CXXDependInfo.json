@@ -1,0 +1,18 @@
+{
+	"bmi-installation" : null,
+	"compiler-frontend-variant" : "GNU",
+	"compiler-id" : "GNU",
+	"compiler-simulate-id" : "",
+	"config" : "Debug",
+	"cxx-modules" : {},
+	"dir-cur-bld" : "C:/Users/esvel/OneDrive/Desktop/Code/C++/Unidad3/VelasquezMariucci_Esteban_CodigoUF3/7_SupermarketInventory/cmake-build-debug",
+	"dir-cur-src" : "C:/Users/esvel/OneDrive/Desktop/Code/C++/Unidad3/VelasquezMariucci_Esteban_CodigoUF3/7_SupermarketInventory",
+	"dir-top-bld" : "C:/Users/esvel/OneDrive/Desktop/Code/C++/Unidad3/VelasquezMariucci_Esteban_CodigoUF3/7_SupermarketInventory/cmake-build-debug",
+	"dir-top-src" : "C:/Users/esvel/OneDrive/Desktop/Code/C++/Unidad3/VelasquezMariucci_Esteban_CodigoUF3/7_SupermarketInventory",
+	"exports" : [],
+	"forward-modules-from-target-dirs" : [],
+	"include-dirs" : [],
+	"language" : "CXX",
+	"linked-target-dirs" : [],
+	"module-dir" : "C:/Users/esvel/OneDrive/Desktop/Code/C++/Unidad3/VelasquezMariucci_Esteban_CodigoUF3/7_SupermarketInventory/cmake-build-debug/CMakeFiles/7_SupermarketInventory.dir"
+}

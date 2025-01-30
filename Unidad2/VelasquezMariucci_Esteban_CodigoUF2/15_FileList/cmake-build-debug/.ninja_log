@@ -1,0 +1,12 @@
+# ninja log v6
+5	161	7517321229950685	CMakeFiles/15_FileList.dir/main.cpp.obj.ddi	45dfee9008272374
+162	191	7517321231515335	CMakeFiles/15_FileList.dir/CXX.dd	ee185ff2076474d1
+1056	1166	7517321240454096	15_FileList.exe	d7075515667cbe8b
+162	191	7517321231515335	CMakeFiles/15_FileList.dir/main.cpp.obj.modmap	ee185ff2076474d1
+192	1055	7517321231810808	CMakeFiles/15_FileList.dir/main.cpp.obj	34b0d53009a3b02b
+27	267	7517593840645545	CMakeFiles/15_FileList.dir/main.cpp.obj.ddi	eadbd27f93fee7a3
+267	307	7517593843403895	CMakeFiles/15_FileList.dir/CXX.dd	ee185ff2076474d1
+267	307	7517593843403895	C:/Users/esvel/OneDrive/Desktop/Code/C++/Unidad2/VelasquezMariucci_Esteban_CodigoUF2/15_FileList/cmake-build-debug/CMakeFiles/15_FileList.dir/CXXModules.json	ee185ff2076474d1
+267	307	7517593843403895	CMakeFiles/15_FileList.dir/main.cpp.obj.modmap	ee185ff2076474d1
+312	1578	7517593843499046	CMakeFiles/15_FileList.dir/main.cpp.obj	6694f1792bf0ff84
+1579	1767	7517593856170851	15_FileList.exe	d7075515667cbe8b

@@ -1,0 +1,17 @@
+ninja_dyndep_version = 1.0
+build CMakeFiles/Grupo1_AC2.dir/main.cpp.obj: dyndep
+
+build CMakeFiles/Grupo1_AC2.dir/src/GestorArchivos.cpp.obj: dyndep
+
+build CMakeFiles/Grupo1_AC2.dir/src/MochilaVirtual.cpp.obj: dyndep
+
+build CMakeFiles/Grupo1_AC2.dir/src/Estudiante.cpp.obj: dyndep
+
+build CMakeFiles/Grupo1_AC2.dir/src/Profesor.cpp.obj: dyndep
+
+build CMakeFiles/Grupo1_AC2.dir/src/Aula.cpp.obj: dyndep
+
+build CMakeFiles/Grupo1_AC2.dir/src/UsuarioAdministrador.cpp.obj: dyndep
+
+build CMakeFiles/Grupo1_AC2.dir/src/JuegoAdivinar.cpp.obj: dyndep
+

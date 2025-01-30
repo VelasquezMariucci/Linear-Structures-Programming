@@ -1,0 +1,25 @@
+# ninja log v6
+68	268	7553960316090733	CMakeFiles/3_PointClassLinkedList.dir/main.cpp.obj.ddi	26b0452e92097165
+269	323	7553960318605275	CMakeFiles/3_PointClassLinkedList.dir/CXX.dd	d621b59f6610413c
+269	323	7553960318605275	C:/Users/esvel/OneDrive/Desktop/Code/C++/Unidad4/VelasquezMariucci_Esteban_CodigoUF4/3_PointClassLinkedList/cmake-build-debug/CMakeFiles/3_PointClassLinkedList.dir/CXXModules.json	d621b59f6610413c
+269	323	7553960318605275	CMakeFiles/3_PointClassLinkedList.dir/main.cpp.obj.modmap	d621b59f6610413c
+7	169	7553960576458319	CMakeFiles/3_PointClassLinkedList.dir/main.cpp.obj.ddi	26b0452e92097165
+169	197	7553960578072843	CMakeFiles/3_PointClassLinkedList.dir/CXX.dd	d621b59f6610413c
+169	197	7553960578072843	C:/Users/esvel/OneDrive/Desktop/Code/C++/Unidad4/VelasquezMariucci_Esteban_CodigoUF4/3_PointClassLinkedList/cmake-build-debug/CMakeFiles/3_PointClassLinkedList.dir/CXXModules.json	d621b59f6610413c
+169	197	7553960578072843	CMakeFiles/3_PointClassLinkedList.dir/main.cpp.obj.modmap	d621b59f6610413c
+8	165	7553962292741810	CMakeFiles/3_PointClassLinkedList.dir/main.cpp.obj.ddi	26b0452e92097165
+166	193	7553962294321717	CMakeFiles/3_PointClassLinkedList.dir/CXX.dd	d621b59f6610413c
+166	193	7553962294321717	C:/Users/esvel/OneDrive/Desktop/Code/C++/Unidad4/VelasquezMariucci_Esteban_CodigoUF4/3_PointClassLinkedList/cmake-build-debug/CMakeFiles/3_PointClassLinkedList.dir/CXXModules.json	d621b59f6610413c
+166	193	7553962294321717	CMakeFiles/3_PointClassLinkedList.dir/main.cpp.obj.modmap	d621b59f6610413c
+8	170	7553962687091822	CMakeFiles/3_PointClassLinkedList.dir/main.cpp.obj.ddi	26b0452e92097165
+171	201	7553962688719728	CMakeFiles/3_PointClassLinkedList.dir/CXX.dd	d621b59f6610413c
+171	201	7553962688719728	C:/Users/esvel/OneDrive/Desktop/Code/C++/Unidad4/VelasquezMariucci_Esteban_CodigoUF4/3_PointClassLinkedList/cmake-build-debug/CMakeFiles/3_PointClassLinkedList.dir/CXXModules.json	d621b59f6610413c
+171	201	7553962688719728	CMakeFiles/3_PointClassLinkedList.dir/main.cpp.obj.modmap	d621b59f6610413c
+203	1078	7553962689039309	CMakeFiles/3_PointClassLinkedList.dir/main.cpp.obj	29f7cbb3f756cd76
+1079	1221	7553962697810019	3_PointClassLinkedList.exe	ea9c80e4fc79eb7c
+57	247	7559749954846306	CMakeFiles/3_PointClassLinkedList.dir/main.cpp.obj.ddi	26b0452e92097165
+248	315	7559749956748160	CMakeFiles/3_PointClassLinkedList.dir/CXX.dd	d621b59f6610413c
+248	315	7559749956748160	C:/Users/esvel/OneDrive/Desktop/Code/C++/Unidad4/VelasquezMariucci_Esteban_CodigoUF4/3_PointClassLinkedList/cmake-build-debug/CMakeFiles/3_PointClassLinkedList.dir/CXXModules.json	d621b59f6610413c
+248	315	7559749956748160	CMakeFiles/3_PointClassLinkedList.dir/main.cpp.obj.modmap	d621b59f6610413c
+326	1397	7559749957530922	CMakeFiles/3_PointClassLinkedList.dir/main.cpp.obj	29f7cbb3f756cd76
+1398	1505	7559749968244655	3_PointClassLinkedList.exe	ea9c80e4fc79eb7c

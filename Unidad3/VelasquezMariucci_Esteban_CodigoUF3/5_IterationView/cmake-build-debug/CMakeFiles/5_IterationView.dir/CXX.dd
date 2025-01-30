@@ -1,0 +1,5 @@
+ninja_dyndep_version = 1.0
+build CMakeFiles/5_IterationView.dir/main.cpp.obj: dyndep
+
+build CMakeFiles/5_IterationView.dir/Date.cpp.obj: dyndep
+

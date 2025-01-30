@@ -1,0 +1,5 @@
+ninja_dyndep_version = 1.0
+build CMakeFiles/6_RectangleClass.dir/main.cpp.obj: dyndep
+
+build CMakeFiles/6_RectangleClass.dir/src/Rectangle.cpp.obj: dyndep
+

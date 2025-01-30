@@ -1,0 +1,20 @@
+# ninja log v6
+28	264	7491604795870781	CMakeFiles/AC1.dir/Libro.cpp.obj.ddi	7db95b19f3e070e6
+489	568	7491604801226740	CMakeFiles/AC1.dir/Libro.cpp.obj.modmap	265e30a37c1eecc4
+14	266	7491604795741180	CMakeFiles/AC1.dir/Lista.cpp.obj.ddi	d9411d624a190c13
+36	268	7491604795951247	CMakeFiles/AC1.dir/Usuario.cpp.obj.ddi	50b910527d1ea9c2
+43	382	7491604796017572	CMakeFiles/AC1.dir/UsuarioCliente.cpp.obj.ddi	717d911c512b807a
+6	482	7491604795652363	CMakeFiles/AC1.dir/main.cpp.obj.ddi	fbeeb42cf16d6644
+53	489	7491604796131258	CMakeFiles/AC1.dir/UsuarioBibliotecario.cpp.obj.ddi	81d87eada3613012
+489	568	7491604801226740	CMakeFiles/AC1.dir/CXX.dd	265e30a37c1eecc4
+489	568	7491604801226740	CMakeFiles/AC1.dir/main.cpp.obj.modmap	265e30a37c1eecc4
+489	568	7491604801226740	CMakeFiles/AC1.dir/Lista.cpp.obj.modmap	265e30a37c1eecc4
+489	568	7491604801226740	CMakeFiles/AC1.dir/Usuario.cpp.obj.modmap	265e30a37c1eecc4
+489	568	7491604801226740	CMakeFiles/AC1.dir/UsuarioCliente.cpp.obj.modmap	265e30a37c1eecc4
+489	568	7491604801226740	CMakeFiles/AC1.dir/UsuarioBibliotecario.cpp.obj.modmap	265e30a37c1eecc4
+577	2439	7491604801365955	CMakeFiles/AC1.dir/main.cpp.obj	7deb5246d8a20211
+581	1483	7491604801405953	CMakeFiles/AC1.dir/Lista.cpp.obj	dd0d0bf595d123a3
+591	1520	7491604801503946	CMakeFiles/AC1.dir/Usuario.cpp.obj	bbc7cf515534d590
+586	1521	7491604801455932	CMakeFiles/AC1.dir/Libro.cpp.obj	7ef3f0bb5989436d
+616	2436	7491604801748611	CMakeFiles/AC1.dir/UsuarioCliente.cpp.obj	5a08d64b5a48baf2
+739	2556	7491604802992196	CMakeFiles/AC1.dir/UsuarioBibliotecario.cpp.obj	b1da20495634cd34

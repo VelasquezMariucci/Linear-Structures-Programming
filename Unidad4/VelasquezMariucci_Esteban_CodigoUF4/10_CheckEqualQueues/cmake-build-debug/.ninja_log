@@ -1,0 +1,22 @@
+# ninja log v6
+36	1545	7554520908660788	CMakeFiles/10_CheckEqualStacks.dir/main.cpp.obj.ddi	972cec385dcfa21e
+1546	1585	7554520923759887	CMakeFiles/10_CheckEqualStacks.dir/main.cpp.obj.modmap	a394bc90470435de
+1546	1585	7554520923759887	CMakeFiles/10_CheckEqualStacks.dir/CXX.dd	a394bc90470435de
+2569	2822	7554520933985182	10_CheckEqualStacks.exe	759eaf19ada88042
+1591	2569	7554520924211282	CMakeFiles/10_CheckEqualStacks.dir/main.cpp.obj	7ba1d5f8ce0eac17
+28	446	7555624196664643	CMakeFiles/10_CheckEqualStacks.dir/main.cpp.obj.ddi	eaaece318ad1143d
+447	495	7555624201292403	CMakeFiles/10_CheckEqualStacks.dir/CXX.dd	a394bc90470435de
+447	495	7555624201292403	C:/Users/esvel/OneDrive/Desktop/Code/C++/Unidad4/VelasquezMariucci_Esteban_CodigoUF4/10_CheckEqualQueues/cmake-build-debug/CMakeFiles/10_CheckEqualStacks.dir/CXXModules.json	a394bc90470435de
+447	495	7555624201292403	CMakeFiles/10_CheckEqualStacks.dir/main.cpp.obj.modmap	a394bc90470435de
+15	180	7555624669991838	CMakeFiles/10_CheckEqualStacks.dir/main.cpp.obj.ddi	eaaece318ad1143d
+180	207	7555624671635428	CMakeFiles/10_CheckEqualStacks.dir/CXX.dd	a394bc90470435de
+180	207	7555624671635428	C:/Users/esvel/OneDrive/Desktop/Code/C++/Unidad4/VelasquezMariucci_Esteban_CodigoUF4/10_CheckEqualQueues/cmake-build-debug/CMakeFiles/10_CheckEqualStacks.dir/CXXModules.json	a394bc90470435de
+180	207	7555624671635428	CMakeFiles/10_CheckEqualStacks.dir/main.cpp.obj.modmap	a394bc90470435de
+209	1093	7555624671922535	CMakeFiles/10_CheckEqualStacks.dir/main.cpp.obj	73283c92d5d25b47
+1093	1229	7555624680761384	10_CheckEqualStacks.exe	759eaf19ada88042
+83	341	7559750885587876	CMakeFiles/10_CheckEqualStacks.dir/main.cpp.obj.ddi	eaaece318ad1143d
+342	396	7559750888170345	CMakeFiles/10_CheckEqualStacks.dir/CXX.dd	a394bc90470435de
+342	396	7559750888170345	C:/Users/esvel/OneDrive/Desktop/Code/C++/Unidad4/VelasquezMariucci_Esteban_CodigoUF4/10_CheckEqualQueues/cmake-build-debug/CMakeFiles/10_CheckEqualStacks.dir/CXXModules.json	a394bc90470435de
+342	396	7559750888170345	CMakeFiles/10_CheckEqualStacks.dir/main.cpp.obj.modmap	a394bc90470435de
+403	1584	7559750888788397	CMakeFiles/10_CheckEqualStacks.dir/main.cpp.obj	73283c92d5d25b47
+1584	1811	7559750900599959	10_CheckEqualStacks.exe	759eaf19ada88042

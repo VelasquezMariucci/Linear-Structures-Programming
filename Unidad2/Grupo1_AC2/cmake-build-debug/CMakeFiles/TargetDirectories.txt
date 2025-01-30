@@ -1,0 +1,3 @@
+C:/Users/esvel/OneDrive/Desktop/Code/C++/Unidad2/Grupo1_AC2/cmake-build-debug/CMakeFiles/Grupo1_AC2.dir
+C:/Users/esvel/OneDrive/Desktop/Code/C++/Unidad2/Grupo1_AC2/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/esvel/OneDrive/Desktop/Code/C++/Unidad2/Grupo1_AC2/cmake-build-debug/CMakeFiles/rebuild_cache.dir

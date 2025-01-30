@@ -1,0 +1,3 @@
+C:/Users/esvel/OneDrive/Desktop/Code/C++/Unidad3/VelasquezMariucci_Esteban_CodigoUF3/6_SalesAnalysis/cmake-build-debug/CMakeFiles/6_SalesAnalysis.dir
+C:/Users/esvel/OneDrive/Desktop/Code/C++/Unidad3/VelasquezMariucci_Esteban_CodigoUF3/6_SalesAnalysis/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/esvel/OneDrive/Desktop/Code/C++/Unidad3/VelasquezMariucci_Esteban_CodigoUF3/6_SalesAnalysis/cmake-build-debug/CMakeFiles/rebuild_cache.dir

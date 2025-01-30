@@ -1,0 +1,11 @@
+# ninja log v6
+18	194	7517589387486670	CMakeFiles/5_PointerValueExchange.dir/main.cpp.obj.ddi	921c8480ba980193
+194	233	7517589389597511	CMakeFiles/5_PointerValueExchange.dir/CXX.dd	4f3724e8a295e99
+194	233	7517589389597511	C:/Users/esvel/OneDrive/Desktop/Code/C++/Unidad2/VelasquezMariucci_Esteban_CodigoUF2/5_PointerValueExchange/cmake-build-debug/CMakeFiles/5_PointerValueExchange.dir/CXXModules.json	4f3724e8a295e99
+239	1334	7517589389702714	CMakeFiles/5_PointerValueExchange.dir/main.cpp.obj	98a717e61beafea9
+194	233	7517589389597511	CMakeFiles/5_PointerValueExchange.dir/main.cpp.obj.modmap	4f3724e8a295e99
+25	306	7517589442878492	build.ninja	abf4f6ec35feab7e
+1335	1484	7517589400651386	5_PointerValueExchange.exe	2e30fe06d55570fd
+29	68	7517591696037412	CMakeFiles/5_PointerValueExchange.dir/CXX.dd	4f3724e8a295e99
+29	68	7517591696037412	C:/Users/esvel/OneDrive/Desktop/Code/C++/Unidad2/VelasquezMariucci_Esteban_CodigoUF2/5_PointerValueExchange/cmake-build-debug/CMakeFiles/5_PointerValueExchange.dir/CXXModules.json	4f3724e8a295e99
+29	68	7517591696037412	CMakeFiles/5_PointerValueExchange.dir/main.cpp.obj.modmap	4f3724e8a295e99

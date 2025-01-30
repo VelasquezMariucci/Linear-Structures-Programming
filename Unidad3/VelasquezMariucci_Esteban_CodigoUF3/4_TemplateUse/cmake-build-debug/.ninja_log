@@ -1,0 +1,23 @@
+# ninja log v6
+13	309	7538222329618599	CMakeFiles/4_TemplateUse.dir/main.cpp.obj.ddi	d48deac8812f74ee
+309	354	7538222332584313	CMakeFiles/4_TemplateUse.dir/CXX.dd	1c7161e8492a44c6
+356	1991	7538222333060881	CMakeFiles/4_TemplateUse.dir/main.cpp.obj	d23aecb72b62017b
+309	354	7538222332584313	C:/Users/esvel/OneDrive/Desktop/Code/C++/Unidad3/VelasquezMariucci_Esteban_CodigoUF3/4_TemplateUse/cmake-build-debug/CMakeFiles/4_TemplateUse.dir/CXXModules.json	1c7161e8492a44c6
+309	354	7538222332584313	CMakeFiles/4_TemplateUse.dir/main.cpp.obj.modmap	1c7161e8492a44c6
+1996	2207	7538222349452012	4_TemplateUse.exe	e7046f583f4c42a3
+34	230	7540632394615685	CMakeFiles/4_TemplateUse.dir/main.cpp.obj.ddi	d48deac8812f74ee
+40	231	7540632394668070	CMakeFiles/4_TemplateUse.dir/Perro.cpp.obj.ddi	c399eafc1e06aa76
+231	293	7540632396577075	CMakeFiles/4_TemplateUse.dir/CXX.dd	431c911ff45fe5e0
+231	293	7540632396577075	C:/Users/esvel/OneDrive/Desktop/Code/C++/Unidad3/VelasquezMariucci_Esteban_CodigoUF3/4_TemplateUse/cmake-build-debug/CMakeFiles/4_TemplateUse.dir/CXXModules.json	431c911ff45fe5e0
+231	293	7540632396577075	CMakeFiles/4_TemplateUse.dir/main.cpp.obj.modmap	431c911ff45fe5e0
+231	293	7540632396577075	CMakeFiles/4_TemplateUse.dir/Perro.cpp.obj.modmap	431c911ff45fe5e0
+303	1390	7540632397309894	CMakeFiles/4_TemplateUse.dir/Perro.cpp.obj	b4949ffd310d00c9
+300	1416	7540632397269905	CMakeFiles/4_TemplateUse.dir/main.cpp.obj	d23aecb72b62017b
+1416	1747	7540632408426380	4_TemplateUse.exe	b61da66edc1abf92
+72	777	7545789522497485	CMakeFiles/4_TemplateUse.dir/main.cpp.obj.ddi	d48deac8812f74ee
+777	841	7545789529541939	CMakeFiles/4_TemplateUse.dir/CXX.dd	431c911ff45fe5e0
+777	841	7545789529541939	C:/Users/esvel/OneDrive/Desktop/Code/C++/Unidad3/VelasquezMariucci_Esteban_CodigoUF3/4_TemplateUse/cmake-build-debug/CMakeFiles/4_TemplateUse.dir/CXXModules.json	431c911ff45fe5e0
+777	841	7545789529541939	CMakeFiles/4_TemplateUse.dir/main.cpp.obj.modmap	431c911ff45fe5e0
+777	841	7545789529541939	CMakeFiles/4_TemplateUse.dir/Perro.cpp.obj.modmap	431c911ff45fe5e0
+848	1949	7545789530253037	CMakeFiles/4_TemplateUse.dir/main.cpp.obj	d23aecb72b62017b
+1949	2176	7545789541265075	4_TemplateUse.exe	b61da66edc1abf92

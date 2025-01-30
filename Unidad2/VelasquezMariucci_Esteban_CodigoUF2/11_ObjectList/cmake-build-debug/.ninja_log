@@ -1,0 +1,12 @@
+# ninja log v6
+50	636	7517270631165350	CMakeFiles/11_ObjectList.dir/main.cpp.obj.ddi	cb4cb942d2d381ee
+636	680	7517270637024783	CMakeFiles/11_ObjectList.dir/CXX.dd	9677cae141df0c0a
+636	680	7517270637024783	CMakeFiles/11_ObjectList.dir/main.cpp.obj.modmap	9677cae141df0c0a
+681	1827	7517270637484960	CMakeFiles/11_ObjectList.dir/main.cpp.obj	7c54eea750454805
+1827	1962	7517270648945343	11_ObjectList.exe	58ae1622374a7450
+35	258	7517592853884372	CMakeFiles/11_ObjectList.dir/main.cpp.obj.ddi	95f92514d29edc2b
+258	300	7517592856483998	CMakeFiles/11_ObjectList.dir/CXX.dd	9677cae141df0c0a
+258	300	7517592856483998	C:/Users/esvel/OneDrive/Desktop/Code/C++/Unidad2/VelasquezMariucci_Esteban_CodigoUF2/11_ObjectList/cmake-build-debug/CMakeFiles/11_ObjectList.dir/CXXModules.json	9677cae141df0c0a
+258	300	7517592856483998	CMakeFiles/11_ObjectList.dir/main.cpp.obj.modmap	9677cae141df0c0a
+302	1723	7517592856544010	CMakeFiles/11_ObjectList.dir/main.cpp.obj	762a1710dc7b1f9a
+1724	1840	7517592870770770	11_ObjectList.exe	58ae1622374a7450

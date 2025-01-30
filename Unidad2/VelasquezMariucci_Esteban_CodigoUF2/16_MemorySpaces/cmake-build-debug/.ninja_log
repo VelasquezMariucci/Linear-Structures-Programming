@@ -1,0 +1,12 @@
+# ninja log v6
+12	173	7517348736150680	CMakeFiles/16_MemorySpaces.dir/main.cpp.obj.ddi	161c9ffffdbbac7
+173	197	7517348737754151	CMakeFiles/16_MemorySpaces.dir/CXX.dd	6338254ab565337f
+173	197	7517348737754151	CMakeFiles/16_MemorySpaces.dir/main.cpp.obj.modmap	6338254ab565337f
+198	1062	7517348738014584	CMakeFiles/16_MemorySpaces.dir/main.cpp.obj	d80320ba2d46db3f
+1062	1156	7517348746651294	16_MemorySpaces.exe	cc0cd24ec0ab2bb1
+23	220	7517594029392232	CMakeFiles/16_MemorySpaces.dir/main.cpp.obj.ddi	53e4d0b2872a46f6
+220	263	7517594031746210	CMakeFiles/16_MemorySpaces.dir/CXX.dd	6338254ab565337f
+220	263	7517594031746210	C:/Users/esvel/OneDrive/Desktop/Code/C++/Unidad2/VelasquezMariucci_Esteban_CodigoUF2/16_MemorySpaces/cmake-build-debug/CMakeFiles/16_MemorySpaces.dir/CXXModules.json	6338254ab565337f
+220	263	7517594031746210	CMakeFiles/16_MemorySpaces.dir/main.cpp.obj.modmap	6338254ab565337f
+269	1571	7517594031856531	CMakeFiles/16_MemorySpaces.dir/main.cpp.obj	38d31a2a8d895809
+1571	1770	7517594044868506	16_MemorySpaces.exe	cc0cd24ec0ab2bb1

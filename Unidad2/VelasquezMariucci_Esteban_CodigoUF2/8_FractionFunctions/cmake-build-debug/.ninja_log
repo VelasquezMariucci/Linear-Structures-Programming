@@ -1,0 +1,24 @@
+# ninja log v6
+33	83	7514842914518337	CMakeFiles/FractionFunctions.dir/src/Fraction.cpp.obj.ddi	db1080dc4da10d19
+308	403	7514842917255627	CMakeFiles/FractionFunctions.dir/src/Fraction.cpp.obj	77fcb2d225f3f474
+38	259	7514842914559130	CMakeFiles/FractionFunctions.dir/src/FractionUtils.cpp.obj.ddi	26ce356d97bba539
+259	297	7514842917114707	CMakeFiles/FractionFunctions.dir/CXX.dd	3ec0f12f316ec973
+27	259	7514842914457383	CMakeFiles/FractionFunctions.dir/main.cpp.obj.ddi	9f3fdeabf987b67a
+259	297	7514842917114707	CMakeFiles/FractionFunctions.dir/main.cpp.obj.modmap	3ec0f12f316ec973
+259	297	7514842917114707	CMakeFiles/FractionFunctions.dir/src/Fraction.cpp.obj.modmap	3ec0f12f316ec973
+259	297	7514842917114707	CMakeFiles/FractionFunctions.dir/src/FractionUtils.cpp.obj.modmap	3ec0f12f316ec973
+304	1441	7514842917215635	CMakeFiles/FractionFunctions.dir/main.cpp.obj	95c4bc070cd9da96
+312	1544	7514842917305669	CMakeFiles/FractionFunctions.dir/src/FractionUtils.cpp.obj	25478346421635c1
+1544	1721	7514842929618601	FractionFunctions.exe	32b59d6d9194ea4
+43	95	7517592132697248	CMakeFiles/FractionFunctions.dir/src/Fraction.cpp.obj.ddi	c0fb5c810f9767d9
+48	309	7517592132747238	CMakeFiles/FractionFunctions.dir/src/FractionUtils.cpp.obj.ddi	3edda40fbb526868
+37	313	7517592132631984	CMakeFiles/FractionFunctions.dir/main.cpp.obj.ddi	eb50ba24451d8229
+313	361	7517592135828355	CMakeFiles/FractionFunctions.dir/CXX.dd	3ec0f12f316ec973
+313	361	7517592135828355	C:/Users/esvel/OneDrive/Desktop/Code/C++/Unidad2/VelasquezMariucci_Esteban_CodigoUF2/8_FractionFunctions/cmake-build-debug/CMakeFiles/FractionFunctions.dir/CXXModules.json	3ec0f12f316ec973
+313	361	7517592135828355	CMakeFiles/FractionFunctions.dir/main.cpp.obj.modmap	3ec0f12f316ec973
+313	361	7517592135828355	CMakeFiles/FractionFunctions.dir/src/Fraction.cpp.obj.modmap	3ec0f12f316ec973
+313	361	7517592135828355	CMakeFiles/FractionFunctions.dir/src/FractionUtils.cpp.obj.modmap	3ec0f12f316ec973
+368	458	7517592135948996	CMakeFiles/FractionFunctions.dir/src/Fraction.cpp.obj	e2e69278be1dd222
+363	1641	7517592135899005	CMakeFiles/FractionFunctions.dir/main.cpp.obj	fe73937d2ce02940
+372	1749	7517592135989821	CMakeFiles/FractionFunctions.dir/src/FractionUtils.cpp.obj	92a7e540662cc1c3
+1750	1894	7517592149765836	FractionFunctions.exe	32b59d6d9194ea4

@@ -1,0 +1,12 @@
+# ninja log v6
+14	169	7517389400317461	CMakeFiles/17_Dinarray.dir/main.cpp.obj.ddi	fecc67da9259947f
+170	196	7517389401877232	CMakeFiles/17_Dinarray.dir/CXX.dd	ea30234f562a2149
+1087	1201	7517389411038536	17_Dinarray.exe	961ef46a98e08ae9
+170	196	7517389401877232	CMakeFiles/17_Dinarray.dir/main.cpp.obj.modmap	ea30234f562a2149
+197	1086	7517389402148149	CMakeFiles/17_Dinarray.dir/main.cpp.obj	ec59afb54f7a4f50
+27	235	7517594161509401	CMakeFiles/17_Dinarray.dir/main.cpp.obj.ddi	f388b1bbeda0ba8d
+235	289	7517594164070765	CMakeFiles/17_Dinarray.dir/CXX.dd	ea30234f562a2149
+235	289	7517594164070765	C:/Users/esvel/OneDrive/Desktop/Code/C++/Unidad2/VelasquezMariucci_Esteban_CodigoUF2/17_Dinarray/cmake-build-debug/CMakeFiles/17_Dinarray.dir/CXXModules.json	ea30234f562a2149
+235	289	7517594164070765	CMakeFiles/17_Dinarray.dir/main.cpp.obj.modmap	ea30234f562a2149
+303	1464	7517594164265819	CMakeFiles/17_Dinarray.dir/main.cpp.obj	f3b6eaf6b9eaf91b
+1465	1571	7517594175878810	17_Dinarray.exe	961ef46a98e08ae9

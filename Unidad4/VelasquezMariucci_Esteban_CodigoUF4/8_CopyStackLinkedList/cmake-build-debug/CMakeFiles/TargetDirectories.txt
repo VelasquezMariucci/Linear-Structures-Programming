@@ -1,0 +1,3 @@
+C:/Users/esvel/OneDrive/Desktop/Code/C++/Unidad4/VelasquezMariucci_Esteban_CodigoUF4/8_CopyStackLinkedList/cmake-build-debug/CMakeFiles/8_CopyStackLinkedList.dir
+C:/Users/esvel/OneDrive/Desktop/Code/C++/Unidad4/VelasquezMariucci_Esteban_CodigoUF4/8_CopyStackLinkedList/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/esvel/OneDrive/Desktop/Code/C++/Unidad4/VelasquezMariucci_Esteban_CodigoUF4/8_CopyStackLinkedList/cmake-build-debug/CMakeFiles/rebuild_cache.dir

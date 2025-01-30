@@ -1,0 +1,3 @@
+C:/Users/esvel/OneDrive/Desktop/Code/C++/TemplateUtils/cmake-build-debug/CMakeFiles/TemplateUtils.dir
+C:/Users/esvel/OneDrive/Desktop/Code/C++/TemplateUtils/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/esvel/OneDrive/Desktop/Code/C++/TemplateUtils/cmake-build-debug/CMakeFiles/rebuild_cache.dir

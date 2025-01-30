@@ -1,0 +1,7 @@
+# ninja log v6
+7	328	7483706612486162	CMakeFiles/Test1.dir/main.cpp.obj.ddi	43b068d2201aced8
+328	384	7483706616212192	CMakeFiles/Test1.dir/CXX.dd	ba008c9261425c7e
+328	384	7483706616212192	C:/Users/esvel/OneDrive/Desktop/Code/C++/Test1/cmake-build-debug/CMakeFiles/Test1.dir/CXXModules.json	ba008c9261425c7e
+328	384	7483706616212192	CMakeFiles/Test1.dir/main.cpp.obj.modmap	ba008c9261425c7e
+390	1410	7483706616312192	CMakeFiles/Test1.dir/main.cpp.obj	3d03070d1e89a8b3
+1412	1622	7483706626532577	Test1.exe	32e76ccc34f846f2

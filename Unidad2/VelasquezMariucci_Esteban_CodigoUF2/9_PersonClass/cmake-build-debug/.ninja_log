@@ -1,0 +1,19 @@
+# ninja log v6
+188	1067	7517239747233272	CMakeFiles/9_PersonClass.dir/main.cpp.obj	c92548c1c08ac85c
+4	396	7517592453930189	build.ninja	16af2f699c9fbcdd
+7	354	7517239145856036	CMakeFiles/9_PersonClass.dir/src/Person.cpp.obj.ddi	adf1a7d1f72911e9
+160	187	7517239746954403	CMakeFiles/9_PersonClass.dir/CXX.dd	5225600a3d71f62d
+6	160	7517239745421839	CMakeFiles/9_PersonClass.dir/main.cpp.obj.ddi	c25f015e8df7482a
+160	187	7517239746954403	CMakeFiles/9_PersonClass.dir/src/Person.cpp.obj.modmap	5225600a3d71f62d
+160	187	7517239746954403	CMakeFiles/9_PersonClass.dir/main.cpp.obj.modmap	5225600a3d71f62d
+450	1080	7517239150287381	CMakeFiles/9_PersonClass.dir/src/Person.cpp.obj	ea1f4b61618fe6b
+1068	1183	7517239756030576	9_PersonClass.exe	cc8e6945a7908858
+37	206	7517592468611937	CMakeFiles/9_PersonClass.dir/src/Person.cpp.obj.ddi	a39d3ced2d207eff
+30	347	7517592468546591	CMakeFiles/9_PersonClass.dir/main.cpp.obj.ddi	550de142fc2d011e
+347	488	7517592472424177	CMakeFiles/9_PersonClass.dir/CXX.dd	5225600a3d71f62d
+347	488	7517592472424177	C:/Users/esvel/OneDrive/Desktop/Code/C++/Unidad2/VelasquezMariucci_Esteban_CodigoUF2/9_PersonClass/cmake-build-debug/CMakeFiles/9_PersonClass.dir/CXXModules.json	5225600a3d71f62d
+347	488	7517592472424177	CMakeFiles/9_PersonClass.dir/main.cpp.obj.modmap	5225600a3d71f62d
+347	488	7517592472424177	CMakeFiles/9_PersonClass.dir/src/Person.cpp.obj.modmap	5225600a3d71f62d
+498	2262	7517592473227097	CMakeFiles/9_PersonClass.dir/src/Person.cpp.obj	c7133d5e30787dec
+491	2272	7517592473151746	CMakeFiles/9_PersonClass.dir/main.cpp.obj	5df87be9bceb3dd0
+2272	2849	7517592490967282	9_PersonClass.exe	cc8e6945a7908858

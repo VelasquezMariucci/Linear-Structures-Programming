@@ -1,0 +1,11 @@
+# ninja log v6
+7	214	7493288912356963	CMakeFiles/TemplateUtils.dir/main.cpp.obj.ddi	93aee1b6d0fa66e1
+243	1446	7493288914709711	CMakeFiles/TemplateUtils.dir/main.cpp.obj	c11a588a60ab73f2
+20	184	7493282870258858	CMakeFiles/TemplateUtils.dir/TemplateUtils.cpp.obj.ddi	a7f07d4bb4ba94c5
+214	241	7493288914427097	C:/Users/esvel/OneDrive/Desktop/Code/C++/TemplateUtils/cmake-build-debug/CMakeFiles/TemplateUtils.dir/CXXModules.json	a6d73cae4aeebe84
+212	1113	7493282872180215	CMakeFiles/TemplateUtils.dir/TemplateUtils.cpp.obj	99ddf04e1a925ab5
+214	241	7493288914427097	CMakeFiles/TemplateUtils.dir/CXX.dd	a6d73cae4aeebe84
+214	241	7493288914427097	CMakeFiles/TemplateUtils.dir/main.cpp.obj.modmap	a6d73cae4aeebe84
+184	211	7493282871899003	CMakeFiles/TemplateUtils.dir/TemplateUtils.cpp.obj.modmap	d503ca3ff1e0da89
+1446	1565	7493288926743998	TemplateUtils.exe	15128586538cb62d
+19	717	7493364274472397	build.ninja	ecc6359691da943d

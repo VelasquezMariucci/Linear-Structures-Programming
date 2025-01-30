@@ -1,0 +1,11 @@
+{
+"rules": [
+{
+"primary-output": "CMakeFiles/3_PointerSum.dir/main.cpp.o",
+"requires": [
+]
+}
+],
+"version": 0,
+"revision": 0
+}

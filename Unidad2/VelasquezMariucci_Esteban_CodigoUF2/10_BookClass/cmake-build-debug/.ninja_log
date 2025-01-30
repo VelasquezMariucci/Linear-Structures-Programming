@@ -1,0 +1,18 @@
+# ninja log v6
+13	160	7517246300540446	CMakeFiles/10_BookClass.dir/src/Book.cpp.obj.ddi	51a88bebef4ed8f5
+219	273	7517246303096237	CMakeFiles/10_BookClass.dir/main.cpp.obj.modmap	4345629b2a46479b
+7	219	7517246300480453	CMakeFiles/10_BookClass.dir/main.cpp.obj.ddi	4b5be869f492d55c
+219	273	7517246303096237	CMakeFiles/10_BookClass.dir/CXX.dd	4345629b2a46479b
+1284	1484	7517246313249006	10_BookClass.exe	2eaf01bd835eaf54
+279	1284	7517246303201452	CMakeFiles/10_BookClass.dir/main.cpp.obj	1bd17d4a8e22309
+219	273	7517246303096237	CMakeFiles/10_BookClass.dir/src/Book.cpp.obj.modmap	4345629b2a46479b
+284	974	7517246303241453	CMakeFiles/10_BookClass.dir/src/Book.cpp.obj	6f75fa09705cc290
+71	265	7517592705815211	CMakeFiles/10_BookClass.dir/src/Book.cpp.obj.ddi	1926975d9afd667b
+62	341	7517592705729735	CMakeFiles/10_BookClass.dir/main.cpp.obj.ddi	7122ffd2ec380cb4
+341	391	7517592708958688	CMakeFiles/10_BookClass.dir/CXX.dd	4345629b2a46479b
+341	391	7517592708958688	C:/Users/esvel/OneDrive/Desktop/Code/C++/Unidad2/VelasquezMariucci_Esteban_CodigoUF2/10_BookClass/cmake-build-debug/CMakeFiles/10_BookClass.dir/CXXModules.json	4345629b2a46479b
+341	391	7517592708958688	CMakeFiles/10_BookClass.dir/main.cpp.obj.modmap	4345629b2a46479b
+341	391	7517592708958688	CMakeFiles/10_BookClass.dir/src/Book.cpp.obj.modmap	4345629b2a46479b
+398	1229	7517592709089556	CMakeFiles/10_BookClass.dir/src/Book.cpp.obj	2ba4b6d972d16db5
+393	1930	7517592709039154	CMakeFiles/10_BookClass.dir/main.cpp.obj	56bc8c25343c971b
+1930	2059	7517592724412727	10_BookClass.exe	2eaf01bd835eaf54

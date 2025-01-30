@@ -1,0 +1,4 @@
+C:\Users\esvel\AppData\Local\Programs\CLion\bin\cmake\win\x64\bin\cmake.exe -DCMAKE_BUILD_TYPE=Debug -G "MinGW Makefiles" -S C:\Users\esvel\OneDrive\Desktop\Code\C++\Unidad5\Grupo1_AC5 -B C:\Users\esvel\OneDrive\Desktop\Code\C++\Unidad5\Grupo1_AC5\cmake-build-debug
+-- Configuring done (1.0s)
+-- Generating done (0.1s)
+-- Build files have been written to: C:/Users/esvel/OneDrive/Desktop/Code/C++/Unidad5/Grupo1_AC5/cmake-build-debug

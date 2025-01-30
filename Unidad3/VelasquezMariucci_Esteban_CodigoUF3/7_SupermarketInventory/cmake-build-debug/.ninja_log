@@ -1,0 +1,25 @@
+# ninja log v6
+28	241	7545259900316160	CMakeFiles/7_SupermarketInventory.dir/main.cpp.obj.ddi	62ca31709d9834c
+242	293	7545259902919527	CMakeFiles/7_SupermarketInventory.dir/CXX.dd	fd52a50e05922eec
+242	293	7545259902919527	C:/Users/esvel/OneDrive/Desktop/Code/C++/Unidad3/VelasquezMariucci_Esteban_CodigoUF3/7_SupermarketInventory/cmake-build-debug/CMakeFiles/7_SupermarketInventory.dir/CXXModules.json	fd52a50e05922eec
+242	293	7545259902919527	CMakeFiles/7_SupermarketInventory.dir/main.cpp.obj.modmap	fd52a50e05922eec
+301	1319	7545259903039626	CMakeFiles/7_SupermarketInventory.dir/main.cpp.obj	a05d06c1bf8c3689
+1321	1466	7545259913237750	7_SupermarketInventory.exe	528f2cfc92f8459
+27	176	7545261812721641	CMakeFiles/7_SupermarketInventory.dir/main.cpp.obj.ddi	62ca31709d9834c
+177	203	7545261814219324	CMakeFiles/7_SupermarketInventory.dir/CXX.dd	fd52a50e05922eec
+177	203	7545261814219324	C:/Users/esvel/OneDrive/Desktop/Code/C++/Unidad3/VelasquezMariucci_Esteban_CodigoUF3/7_SupermarketInventory/cmake-build-debug/CMakeFiles/7_SupermarketInventory.dir/CXXModules.json	fd52a50e05922eec
+177	203	7545261814219324	CMakeFiles/7_SupermarketInventory.dir/main.cpp.obj.modmap	fd52a50e05922eec
+204	1126	7545261814491780	CMakeFiles/7_SupermarketInventory.dir/main.cpp.obj	a05d06c1bf8c3689
+1126	1222	7545261823711193	7_SupermarketInventory.exe	528f2cfc92f8459
+22	173	7545262533771985	CMakeFiles/7_SupermarketInventory.dir/main.cpp.obj.ddi	62ca31709d9834c
+173	199	7545262535282610	CMakeFiles/7_SupermarketInventory.dir/CXX.dd	fd52a50e05922eec
+173	199	7545262535282610	C:/Users/esvel/OneDrive/Desktop/Code/C++/Unidad3/VelasquezMariucci_Esteban_CodigoUF3/7_SupermarketInventory/cmake-build-debug/CMakeFiles/7_SupermarketInventory.dir/CXXModules.json	fd52a50e05922eec
+173	199	7545262535282610	CMakeFiles/7_SupermarketInventory.dir/main.cpp.obj.modmap	fd52a50e05922eec
+200	1056	7545262535548423	CMakeFiles/7_SupermarketInventory.dir/main.cpp.obj	a05d06c1bf8c3689
+1057	1153	7545262544111964	7_SupermarketInventory.exe	528f2cfc92f8459
+76	762	7545794498544165	CMakeFiles/7_SupermarketInventory.dir/main.cpp.obj.ddi	62ca31709d9834c
+762	818	7545794505411823	CMakeFiles/7_SupermarketInventory.dir/CXX.dd	fd52a50e05922eec
+762	818	7545794505411823	C:/Users/esvel/OneDrive/Desktop/Code/C++/Unidad3/VelasquezMariucci_Esteban_CodigoUF3/7_SupermarketInventory/cmake-build-debug/CMakeFiles/7_SupermarketInventory.dir/CXXModules.json	fd52a50e05922eec
+762	818	7545794505411823	CMakeFiles/7_SupermarketInventory.dir/main.cpp.obj.modmap	fd52a50e05922eec
+824	1832	7545794506022746	CMakeFiles/7_SupermarketInventory.dir/main.cpp.obj	a05d06c1bf8c3689
+1832	2098	7545794516105960	7_SupermarketInventory.exe	528f2cfc92f8459
